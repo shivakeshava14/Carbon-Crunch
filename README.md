@@ -38,7 +38,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/carbon-crunch.git
+git clone https://github.com/shivakeshava14/Carbon-Crunch.git
 
 Navigate to the project directory:
 
