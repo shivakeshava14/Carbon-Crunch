@@ -68,4 +68,5 @@ Icons not appearing? Ensure the images/ directory has the correct file paths.
 
 Styling issues? Check if Css.css is linked correctly in index.html.
 
-Animation not working? Verify the JavaScript animations and browser support.
+
+netlify website link -https://benevolent-crisp-c0478f.netlify.app/
